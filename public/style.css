@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+html {
+    background-image: url(https://img.freepik.com/free-vector/cartoon-friends-in-swimsuits-relaxing-and-sunbathing-on-yacht-happy-people-having-party-at-sea-flat-vector-illustration-summer-vacation-concept-for-banner-website-design-or-landing-web-page_74855-25936.jpg?w=900&t=st=1665142778~exp=1665143378~hmac=5a064233d03369dbd6cbfae51bcd31896d3a54899c863ba5e3ebf702c05c7036);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
